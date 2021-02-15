@@ -14,6 +14,16 @@ with open('kr_korean.csv') as csvfile:
 
 
 while 1:
-    print(random.choice(results)),
-    raw_input('...')
+    print(random.choice(results))
+    print(random.choice(results))
+    print(random.choice(results))
+    print(random.choice(results))
+    print(random.choice(results))
+    print(random.choice(results))
+    print(random.choice(results))
+    print(random.choice(results))
+    print(random.choice(results))
+    print(random.choice(results))
+    raw_input('============================')
+
     
